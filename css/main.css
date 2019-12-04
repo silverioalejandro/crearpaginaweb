@@ -32,3 +32,18 @@ footer {
 	color: #f1f1f1;
 	border: 1px solid #f1f1f1;
 }
+
+#carouselExampleCaptions.carousel.slide {
+	width: 100%;
+	/* max-width: 100% !important;
+    max-height: 200px !important; */
+	/* width: 400px;
+	height: 400px;
+	max-width: 400px;
+	max-height: 400px; */
+}
+
+.imgdimension {
+	width: 100%;
+	height: 455px;
+}
