@@ -69,7 +69,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="header-content-right">
-							<h1 class="display-4">Lorem, ipsum dolor.</h1>
+							<h1 class="display-4">Realizado por  Silverio Serrano.</h1>
 							<p class="mt-5">
 								Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur aspernatur sit inventore
 								dignissimos, doloribus animi ex tenetur culpa amet. Fuga atque aliquid ad perspiciatis amet rem error
