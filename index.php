@@ -146,10 +146,8 @@
 								<div class="card-body">
 									<h5 class="card-title">Familia Jimenez</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+                                        Les agradezco mucho a mi familia por ayudarme, cuidarme, enseñarme valores,  y preocuparse por mi.
+                                        Por las risas y de mas cosas que hemos pasado. Y por eso y mucho mas cosas les agradezco.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -160,10 +158,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Familia Serrano</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+									Lo mismo digo de esta otra parte de mi familia, gracias por ayudarme en este camino de mi adolescencia, por cuidarme y apollarme en las buenas y en las malas. No tengo palabras para describirlos, divertidos, animados, activos, responsables.Por eso y mas soy tan unido a ustedes.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
