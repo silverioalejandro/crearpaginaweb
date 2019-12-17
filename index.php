@@ -147,7 +147,7 @@
 									<h5 class="card-title">Familia Jimenez</h5>
 									<p class="card-text">
                                         Les agradezco mucho a mi familia por ayudarme, cuidarme, enseñarme valores,  y preocuparse por mi.
-                                        Por las risas y de mas cosas que hemos pasado. Y por eso y mucho mas cosas les agradezco.
+                                        Por las risas y de mas cosas que hemos pasado. Y por eso y mucho mas les agradezco.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -158,7 +158,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Familia Serrano</h5>
 									<p class="card-text">
-									Lo mismo digo de esta otra parte de mi familia, gracias por ayudarme en este camino de mi adolescencia, por cuidarme y apollarme en las buenas y en las malas. No tengo palabras para describirlos, divertidos, animados, activos, responsables.Por eso y mas soy tan unido a ustedes.
+									Lo mismo digo de esta parte de mi familia, gracias por ayudarme en este camino de mi adolescencia, por cuidarme y apoyarme en las buenas y en las malas. No tengo palabras para describirlos, divertidos, animados, activos, responsables.Por eso y mas soy tan unido a ustedes.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -169,13 +169,10 @@
 								<div class="card-body">
 									<h5 class="card-title">Marcela Jimenez</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+										Mama, Hoy y siempre, te honro y te admiro, te agradezco por todo lo que me diste y por lo que aun me das con todo tu amor [que no es tu obligacion] te agradezco por todo tu apoyo y el amor que me has dado.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
-								</div>
+								</div>,
 							</div>
 
 							<div class="card" style="width: 20rem">
@@ -183,10 +180,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Hector e Ivan</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+										Muchas gracias Hector, por ayudarme a crear esta pagina y tenerme paciencia en las cosas que no entendia. La pase muy bien contigo creando la pagina. 
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -197,10 +191,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Jhoan Serrano</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+										Gracias papa. Por darme tu cariño, por tu fe en mi, por estar ahi siempre, por tu apoyo en mis momentos dificiles y por tu amor incondicional. Te quiero mucho. 
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -211,10 +202,7 @@
 								<div class="card-body">
 									<h5 class="card-title">Primos Serrano</h5>
 									<p class="card-text">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minus
-										repudiandae earum ducimus suscipit commodi magni similique ex porro,
-										consequuntur nesciunt quos adipisci quaerat aliquam perspiciatis quisquam iusto
-										quis culpa!
+										Las unicas palabras [aunque parezcan pocas] que tengo para describirlos, es que me la paso super bien con ustedes y me divierto siempre y que nunca los cambiaria por nada 
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
