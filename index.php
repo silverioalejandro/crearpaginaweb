@@ -24,7 +24,7 @@
 		<!-- navigattion -->
 		<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 			<div class="container">
-				<a class="navbar-brand" href="#header">bootstrap website</a>
+				<a class="navbar-brand" href="#header">Silverio Web</a>
 				<button
 					class="navbar-toggler"
 					type="button"
@@ -39,7 +39,7 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" href="#header">Home</a>
+							<a class="nav-link" href="#header">Inicio</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="#info-one">About</a>
@@ -51,7 +51,7 @@
 							<a class="nav-link" href="#imagenes">imagenes</a>
 						</li> -->
 						<li class="nav-item">
-							<a class="nav-link" href="#contact">contact</a>
+							<a class="nav-link" href="#contact">contactos</a>
 						</li>
 					</ul>
 				</div>
@@ -116,15 +116,11 @@
 			<div class="container">
 				<div class="row my-5">
 					<div class="col-md-6">
-						<h2>Lorem, ipsum dolor.</h2>
-						<p>
-							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt dolores aperiam eligendi
-							voluptatibus veritatis, voluptates explicabo, fugit vero omnis sint magni pariatur tempora
-							nulla magnam ex voluptas! Itaque, vitae voluptas?
-						</p>
+						<h2>Html.</h2>
+						<p></p>
 					</div>
 					<div class="col-md-6">
-						<h2>Lorem, ipsum dolor.</h2>
+						<h2>Css.</h2>
 						<p>
 							Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt dolores aperiam eligendi
 							voluptatibus veritatis, voluptates explicabo, fugit vero omnis sint magni pariatur tempora
@@ -146,8 +142,9 @@
 								<div class="card-body">
 									<h5 class="card-title">Familia Jimenez</h5>
 									<p class="card-text">
-                                        Les agradezco mucho a mi familia por ayudarme, cuidarme, enseñarme valores,  y preocuparse por mi.
-                                        Por las risas y de mas cosas que hemos pasado. Y por eso y mucho mas les agradezco.
+										Les agradezco mucho a mi familia por ayudarme, cuidarme, enseñarme valores, y
+										preocuparse por mi. Por las risas y de mas cosas que hemos pasado. Y por eso y
+										mucho mas les agradezco.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -158,7 +155,10 @@
 								<div class="card-body">
 									<h5 class="card-title">Familia Serrano</h5>
 									<p class="card-text">
-									Lo mismo digo de esta parte de mi familia, gracias por ayudarme en este camino de mi adolescencia, por cuidarme y apoyarme en las buenas y en las malas. No tengo palabras para describirlos, divertidos, animados, activos, responsables.Por eso y mas soy tan unido a ustedes.
+										Lo mismo digo de esta parte de mi familia, gracias por ayudarme en este camino
+										de mi adolescencia, por cuidarme y apoyarme en las buenas y en las malas. No
+										tengo palabras para describirlos, divertidos, animados, activos,
+										responsables.Por eso y mas soy tan unido a ustedes.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -169,10 +169,13 @@
 								<div class="card-body">
 									<h5 class="card-title">Marcela Jimenez</h5>
 									<p class="card-text">
-										Mama, Hoy y siempre, te honro y te admiro, te agradezco por todo lo que me diste y por lo que aun me das con todo tu amor [que no es tu obligacion] te agradezco por todo tu apoyo y el amor que me has dado.
+										Mama, Hoy y siempre, te honro y te admiro, te agradezco por todo lo que me diste
+										y por lo que aun me das con todo tu amor [que no es tu obligacion] te agradezco
+										por todo tu apoyo y el amor que me has dado.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
-								</div>,
+								</div>
+								,
 							</div>
 
 							<div class="card" style="width: 20rem">
@@ -180,7 +183,8 @@
 								<div class="card-body">
 									<h5 class="card-title">Hector e Ivan</h5>
 									<p class="card-text">
-										Muchas gracias Hector, por ayudarme a crear esta pagina y tenerme paciencia en las cosas que no entendia. La pase muy bien contigo creando la pagina. 
+										Muchas gracias Hector, por ayudarme a crear esta pagina y tenerme paciencia en
+										las cosas que no entendia. La pase muy bien contigo creando la pagina.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -191,7 +195,8 @@
 								<div class="card-body">
 									<h5 class="card-title">Jhoan Serrano</h5>
 									<p class="card-text">
-										Gracias papa. Por darme tu cariño, por tu fe en mi, por estar ahi siempre, por tu apoyo en mis momentos dificiles y por tu amor incondicional. Te quiero mucho. 
+										Gracias papa. Por darme tu cariño, por tu fe en mi, por estar ahi siempre, por
+										tu apoyo en mis momentos dificiles y por tu amor incondicional. Te quiero mucho.
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -202,7 +207,9 @@
 								<div class="card-body">
 									<h5 class="card-title">Primos Serrano</h5>
 									<p class="card-text">
-										Las unicas palabras [aunque parezcan pocas] que tengo para describirlos, es que me la paso super bien con ustedes y me divierto siempre y que nunca los cambiaria por nada 
+										Las unicas palabras [aunque parezcan pocas] que tengo para describirlos, es que
+										me la paso super bien con ustedes y me divierto siempre y que nunca los
+										cambiaria por nada
 									</p>
 									<a href="#" class="btn btn-outline-primary btn-block">ver mas...</a>
 								</div>
@@ -262,7 +269,7 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>First slide label</h5>
+										<h5>Familia Jimenez</h5>
 										<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 									</div>
 								</div>
@@ -273,8 +280,8 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>Second slide label</h5>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h5>Hector e Ivan</h5>
+										<p>El que ayudo a crear la pagina. El hermano del creador de la pagina.</p>
 									</div>
 								</div>
 								<div class="carousel-item">
@@ -284,8 +291,8 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>Third slide label</h5>
-										<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+										<h5>Familia Serrano</h5>
+										<p>Valentina, Victoria, Yeye, Papabuelo, Osmery, Jhoan.</p>
 									</div>
 								</div>
 								<div class="carousel-item">
@@ -295,8 +302,8 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>Second slide label</h5>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h5>Marcela Jimenez</h5>
+										<p>Madre del creador de la pagina.</p>
 									</div>
 								</div>
 								<div class="carousel-item">
@@ -306,8 +313,8 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>Second slide label</h5>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h5>Jhoan Serrano</h5>
+										<p>Padre del creador de la pagina.</p>
 									</div>
 								</div>
 								<div class="carousel-item">
@@ -317,8 +324,8 @@
 										alt="..."
 									/>
 									<div class="carousel-caption d-none d-md-block">
-										<h5>Second slide label</h5>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+										<h5>Primos Serrano</h5>
+										<p>Karla, Isac, Karina , Victoria, Silverio.</p>
 									</div>
 								</div>
 							</div>
