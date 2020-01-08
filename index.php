@@ -272,7 +272,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Familia Jimenez</h5>
 										<p>
 											Estefany, Henrry, Javier, Jean, Joel, Margarita, Oscar, Soraya, Victor,
@@ -286,7 +286,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Hector e Ivan</h5>
 										<p>El que ayudo a crear la pagina. El hermano del creador de la pagina.</p>
 									</div>
@@ -297,7 +297,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Familia Serrano</h5>
 										<p>Valentina, Victoria, Yeye, Papabuelo, Osmery, Jhoan.</p>
 									</div>
@@ -308,7 +308,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Marcela Jimenez</h5>
 										<p>Madre del creador de la pagina.</p>
 									</div>
@@ -319,7 +319,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Jhoan Serrano</h5>
 										<p>Padre del creador de la pagina.</p>
 									</div>
@@ -330,7 +330,7 @@
 										class="imgdimension d-block w-100"
 										alt="..."
 									/>
-									<div class="carousel-caption d-none d-md-block">
+									<div class="carousel-caption d-none d-md-block text-img">
 										<h5>Primos Serrano</h5>
 										<p>Karla, Isac, Karina , Victoria, Silverio .</p>
 									</div>
